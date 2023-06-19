@@ -21,7 +21,7 @@ Apple, a tech giant known for its revolutionary and game-changing products, has 
 - The dataset in CSV format containing the historical stock prices and volumes of Apple (`AAPL`) ranging from December 12th, 1980 to June 9th, 2023, already adjusted for stock splits, can be downloaded from my [GitHub](https://github.com/longnguyendata/apple-stock-analysis-and-visualization).
 
 ## How to view the project
-- Click on the Jupyter Notebook in this repo: Apple_Stock_Data_Analysis_and_Visualization.ipynb
-- You can preview the notebook as it is on GitHub.
-- However, you can click on "Open in Colab" to run the notebook in Google Colab for the full functions and displays of the interactive visualizations in the notebook.
+- Click on the Jupyter Notebook in this repo: `Apple_Stock_Data_Analysis_and_Visualization.ipynb`
+- You can preview the notebook directly on GitHub.
+- However, for the full functionality and interactive visualizations, click "Open in Colab" to run the notebook on Google Colab.
 - If you have any questions regarding the notebook and the analysis, please feel free to contact me.
