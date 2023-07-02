@@ -16,3 +16,7 @@ Apple, a tech giant known for its revolutionary and game-changing products, has 
 - You can preview the notebook directly on GitHub.
 - However, for the full functionality and interactive visualizations, click "Open in Colab" to run the notebook on Google Colab.
 - If you have any questions regarding the notebook and the analysis, please feel free to contact me.
+
+Some example charts made by Bokeh library:
+![Candlestick chart](https://raw.githubusercontent.com/longnguyendata/apple-stock-analysis-and-visualization/main/img/candlestick_chart_example.png)
+![Moving average](https://raw.githubusercontent.com/longnguyendata/apple-stock-analysis-and-visualization/main/img/moving_average_2011_to_present.png)
